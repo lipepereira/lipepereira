@@ -1,4 +1,4 @@
-### Olá! Eu sou o Felipe Pereira, seja muito bem vindo(a)!
+### Olá! Eu sou o Felipe Pereira, seja muito bem-vindo(a)!
 
 - 🌱 Estudando HTML, CSS e JavaScript
 - 😄 Futuro Front-end Developer
