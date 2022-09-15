@@ -2,7 +2,7 @@
 
 - 🌱 Estudando HTML, CSS e JavaScript
 - 😄 Futuro Front-end Developer
-- ⚡ 18 years
+- ⚡ 19 years
 
 <div style="display: inline_block">
   <a href="https://github.com/lipepereira">
